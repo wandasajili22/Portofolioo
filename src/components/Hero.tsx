@@ -71,7 +71,7 @@ export default function Hero() {
             <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full p-2 glass border border-white/10 overflow-hidden group">
               <div className="absolute inset-0 border-2 border-primary/30 rounded-full animate-[spin_10s_linear_infinite]" style={{ borderStyle: 'dashed' }}></div>
               <img
-                src="./public/profile.png"
+                src="profile.png"
                 alt="Profile"
                 className="w-full h-full object-cover rounded-full filter grayscale hover:grayscale-0 transition-all duration-500"
               />

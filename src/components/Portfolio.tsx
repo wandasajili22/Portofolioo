@@ -6,21 +6,21 @@ const projects = [
   {
     title: 'Lima Bintang Home Care',
     description: 'Lima Bintang Home Care is a professional home care service platform dedicated to providing high-quality, compassionate, and reliable healthcare assistance for patients at home. The service is designed to support individuals who need medical care, elderly assistance, or recovery support in a comfortable and familiar environment.',
-    image: './public/bintang.png',
+    image: 'bintang.png',
     tags: ['React', 'TypeScript', 'TailwindCSS', 'Recharts'],
     links: { demo: 'https://tutelagesdnbhdindo.com/', github: '#' }
   },
   {
     title: 'Pustaka Digital',
     description: 'Pustaka Digital is a modern digital library platform that simplifies book management and borrowing for schools and educational institutions. It allows users to easily browse, search, and manage book collections through a responsive and user-friendly interface.',
-    image: './public/perpus.png',
+    image: 'perpus.png',
     tags: ['Next.js', 'Framer Motion', 'TailwindCSS'],
     links: { demo: 'https://pustaka-digital-gray.vercel.app/', github: '#' }
   },
   {
     title: 'E-Commerce Platform',
     description: 'UMKM PRO is a modern digital platform designed to help small and medium enterprises (UMKM) manage and grow their businesses more efficiently. It provides tools for product management, sales tracking, and business promotion in one integrated system.',
-    image: './public/umkmpro.png',
+    image: 'mkmpro.png',
     tags: ['Laravel', 'Vue.js', 'MySQL', 'Stripe'],
     links: { demo: 'https://umkmpro.vercel.app/', github: '#' }
   }
