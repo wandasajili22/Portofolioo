@@ -23,6 +23,13 @@ const projects = [
     image: 'umkmpro.png',
     tags: ['Laravel', 'Vue.js', 'MySQL', 'Stripe'],
     links: { demo: 'https://umkmpro.vercel.app/', github: '#' }
+  },
+  {
+    title: 'E-Commerce Toko Bunga Jonggol',
+    description: 'UMKM PRO is a modern digital platform designed to help small and medium enterprises (UMKM) manage and grow their businesses more efficiently. It provides tools for product management, sales tracking, and business promotion in one integrated system.',
+    image: 'buket.png',
+    tags: ['Laravel', 'Vue.js', 'MySQL', 'Stripe'],
+    links: { demo: 'https://buketkitajonggol.vercel.app/', github: '#' }
   }
 ];
 
