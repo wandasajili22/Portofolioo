@@ -26,7 +26,7 @@ const projects = [
   },
   {
     title: 'E-Commerce Toko Bunga Jonggol',
-    description: 'UMKM PRO is a modern digital platform designed to help small and medium enterprises (UMKM) manage and grow their businesses more efficiently. It provides tools for product management, sales tracking, and business promotion in one integrated system.',
+    description: 'Buket Kita Jonggol berawal dari mimpi sederhana: menghadirkan senyum melalui bunga. Kami percaya setiap bunga memiliki bahasa tersendiri untuk menyampaikan perasaan yang tak terucap.',
     image: 'buket.png',
     tags: ['Laravel', 'Vue.js', 'MySQL', 'Stripe'],
     links: { demo: 'https://buketkitajonggol.vercel.app/', github: '#' }
