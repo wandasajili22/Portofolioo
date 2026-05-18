@@ -4,8 +4,8 @@ import { Award, Briefcase, Users } from 'lucide-react';
 
 const stats = [
   { label: 'Years Experience', value: '5+', icon: Briefcase },
-  { label: 'Completed Projects', value: '40+', icon: Award },
-  { label: 'Happy Clients', value: '25+', icon: Users },
+  { label: 'Completed Projects', value: '20+', icon: Award },
+  { label: 'Happy Clients', value: '5+', icon: Users },
 ];
 
 export default function About() {
